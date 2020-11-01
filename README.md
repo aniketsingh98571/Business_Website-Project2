@@ -1,4 +1,2 @@
-# Html-and-CSS
-My First Project on Html and CSS to build a Responsive Website for our Business.
-This Project is under MIT Open Source License.
-The website contains information about our business and its clients.
+<h1 align=center>Business Website</h1>
+<p>Now a days, due to ever increasing digital marketing demands ,I decided to make a website which showcases our business clients and contact details with our company service.</p>
