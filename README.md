@@ -1,2 +1,6 @@
 <h1 align=center>Business Website</h1>
-<p>Now a days, due to ever increasing digital marketing demands ,I decided to make a website which showcases our business clients and contact details with our company service.</p>
+Growing the business needs its online presence, so to make our business scale heights I developed this website which showcases what services our company provides, various clients of our company, and its branches.
+
+### Tech-Stack:
+Frontend- HTML5 and CSS3.<br>
+Database- firebase storage.
