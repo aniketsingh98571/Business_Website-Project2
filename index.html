@@ -34,18 +34,17 @@
             <p>We provide Services all over India. Our Company,aims to provide good quality Services to customers. Customers satisfaction is our first priority.Our main objective is to be always prepared for satisfying the continuously changing demands therefore our company makes numerous efforts for innovation and environmental protection.We want to become the most reliable transportation and logistic enterprise. By principle, we want to render professional services in a friendly and direct way with highly trained professionals to all our customers.</p>
         </div>
      </section>
-    <section id="newsletter">
+     <section id="newsletter">
         <div class="container">
         <h1>Subscribe To Our Newsletter</h1>
-            <form action="mailto:rajeshsinghs443@gmail.com">
-            <input type="email" placeholder="Enter Your Email" required="required">
-                <button type="button" class="button_1" >Subscribe</button>
+            <form  method="POST" id="createform">
+            <input type="email" placeholder="Enter Your Email" required="required" id="email">
+              <input type="submit" id="btn" class="button_1" value="Subscribe">
             
             </form>
         </div>
     
     </section>
-    
     
         <div id="box1">
             <img src="Transport.jpeg" height="50%" width="80%" class="images">
@@ -69,7 +68,11 @@
     
     </footer>
     
-    
+    <script src="https://www.gstatic.com/firebasejs/8.2.7/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.2.7/firebase-firestore.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.2.7/firebase-storage.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.2.7/firebase-database.js"></script>
+    <script src="index.js"></script>
     
     </body>
 
