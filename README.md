@@ -5,7 +5,7 @@ Growing the business needs its online presence, so to make our business scale he
 Frontend- HTML5 and CSS3.<br>
 Database- firebase storage.
 
-- [x] Website Deployed [Nand Transport](https://nandtransport.me/).
+- [x] Website Deployed at [Nand Transport](https://nandtransport.me/).
 - [x] firebase storage for Emails.
 - [x] Chatbot using Dialogflow and Kommunicate plugin. 
 - [ ] Contact form
